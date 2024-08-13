@@ -1,4 +1,13 @@
-# React + Vite
+# React + Vite Project to pick Color
+
+First React Project to understand useState and onChange
+
+## Screenshots
+
+![App Screenshot](screenshot.png)
+
+## Visit the website :
+[Color Picker](https://joyful-pudding-fd53dd.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
